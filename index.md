@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Hola</title>
-  </head>
   <body>
     hola
   </body>
